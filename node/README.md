@@ -1,4 +1,9 @@
-# NODE.JS
+# Setting up Heroku
+
+1. Follow the steps in the project root `README.md`
+2. Create an account at https://heroku.com
+
+# Node.js
 
 1. `cd` into this folder
 2. Take a look at `index.js`: this exposes a simple endpoint which we can hit to see some text
