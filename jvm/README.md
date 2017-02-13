@@ -1,3 +1,13 @@
+To compile the app:
+
+- `brew install scala`
+- `brew install sbt`
+- `brew install typesafe-activator`
+- `activator new app play-scala` (or just clone the repo)
+- `cd app`
+- `activator dist`
+- `cp target/universal the-archive.zip`
+
 First, some setup on the AWS console 
 
 - AWS --> EC2 --> New Instance
