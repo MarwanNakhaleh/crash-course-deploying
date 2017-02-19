@@ -1,0 +1,2 @@
+-you can set up your own domain name to host anything Surge can support, just configure your DNS settings with your domain name host people
+-you can't push .jsx files to Surge, but you can put in a compiled React app

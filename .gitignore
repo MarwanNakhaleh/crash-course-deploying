@@ -1,0 +1,15 @@
+node_modules
+*.log
+
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+
+.DS_Store
+venv
+*.pyc
